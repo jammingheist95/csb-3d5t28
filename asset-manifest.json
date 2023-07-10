@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jammingheist95.github.io/csb-3d5t28/static/css/main.5406daef.chunk.css",
+    "main.js": "https://jammingheist95.github.io/csb-3d5t28/static/js/main.c4b2943d.chunk.js",
+    "main.js.map": "https://jammingheist95.github.io/csb-3d5t28/static/js/main.c4b2943d.chunk.js.map",
+    "runtime-main.js": "https://jammingheist95.github.io/csb-3d5t28/static/js/runtime-main.918c19d7.js",
+    "runtime-main.js.map": "https://jammingheist95.github.io/csb-3d5t28/static/js/runtime-main.918c19d7.js.map",
+    "static/js/2.3bfed373.chunk.js": "https://jammingheist95.github.io/csb-3d5t28/static/js/2.3bfed373.chunk.js",
+    "static/js/2.3bfed373.chunk.js.map": "https://jammingheist95.github.io/csb-3d5t28/static/js/2.3bfed373.chunk.js.map",
+    "index.html": "https://jammingheist95.github.io/csb-3d5t28/index.html",
+    "static/css/main.5406daef.chunk.css.map": "https://jammingheist95.github.io/csb-3d5t28/static/css/main.5406daef.chunk.css.map",
+    "static/js/2.3bfed373.chunk.js.LICENSE.txt": "https://jammingheist95.github.io/csb-3d5t28/static/js/2.3bfed373.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.918c19d7.js",
+    "static/js/2.3bfed373.chunk.js",
+    "static/css/main.5406daef.chunk.css",
+    "static/js/main.c4b2943d.chunk.js"
+  ]
+}
